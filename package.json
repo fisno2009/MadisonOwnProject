@@ -1,0 +1,23 @@
+{
+  "name": "salesforcesdemo",
+  "version": "1.0.0",
+  "description": "This is to automate tests on salesforce lightning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fisno2009/salesforcesDemo.git"
+  },
+  "keywords": [],
+  "author": "Isnel Felix",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fisno2009/salesforcesDemo/issues"
+  },
+  "homepage": "https://github.com/fisno2009/salesforcesDemo#readme",
+  "devDependencies": {
+    "cypress": "^12.3.0"
+  }
+}
